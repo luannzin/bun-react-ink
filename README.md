@@ -25,11 +25,3 @@ This project demonstrates a simple example of using [Ink](https://github.com/vad
 
 ## Project Structure
 - `src/` - Contains the source code for the Ink + React example
-
-## Learn More
-- [Ink Documentation](https://github.com/vadimdemedes/ink)
-- [React Documentation](https://react.dev/)
-
----
-
-Feel free to explore and modify the example to learn more about building CLI apps with Ink and React!
